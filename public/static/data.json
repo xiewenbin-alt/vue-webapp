@@ -1,0 +1,46 @@
+{
+    "data": {
+        "ImgList": [
+            {
+                "img": "./static/assets/index/nev/classify.png",
+                "text": "我的订单"
+            },
+            {
+                "img": "./static/assets/index/nev/new.png",
+                "text": "新品推荐"
+            },
+            {
+                "img": "./static/assets/index/nev/imported.png",
+                "text": "微软专区"
+            },
+            {
+                "img": "./static/assets/index/nev/business.png",
+                "text": "企业购"
+            },
+            {
+                "img": "./static/assets/index/nev/brand.png",
+                "text": "家电医院"
+            },
+            {
+                "img": "./static/assets/index/nev/store.png",
+                "text": "顺电门店"
+            },
+            {
+                "img": "./static/assets/index/nev/renew.png",
+                "text": "以旧换新"
+            },
+            {
+                "img": "./static/assets/index/nev/apple.png",
+                "text": "苹果专区"
+            },
+            {
+                "img": "./static/assets/index/nev/life.png",
+                "text": "厨房家电"
+            },
+            {
+                "img": "./static/assets/index/nev/renew.png",
+                "text": "手机家电"
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "data":{
+           
+                "xiyiji":[
+                    {
+                        "img": "./static/assets/list/xiyiji/01.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/02.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/03.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/04.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/05.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/06.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/07.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/08.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/09.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }, {
+                        "img": "./static/assets/list/xiyiji/10.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "12345",
+                        "text": "蒸汽预熨斗",
+                        "text1": "多重智感系统"
+                    }
+                ]
+                ,
+           
+                
+                "dianshi":[
+                    {
+                        "img": "./static/assets/list/dianshi/01.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "6999.00",
+                        "text": "智慧交互",
+                        "text1": "AI慧眼"
+                    }, {
+                        "img": "./static/assets/list/dianshi/02.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "338888.00",
+                        "text": "至臻8K",
+                        "text1": "全面屏"
+                    }, {
+                        "img": "./static/assets/list/dianshi/03.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "13999.00",
+                        "text": "a7 Gen2芯片",
+                        "text1": "杜比全景声"
+                    }, {
+                        "img": "./static/assets/list/dianshi/04.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "19899.00",
+                        "text": "4K HDR显示",
+                        "text1": "高刷新率面板"
+                    }, {
+                        "img": "./static/assets/list/dianshi/05.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "18939.00",
+                        "text": "X1进阶版芯片",
+                        "text1": "银幕声场"
+                    }, {
+                        "img": "./static/assets/list/dianshi/06.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "7789.00",
+                        "text": "4K HDR",
+                        "text1": "多声道屏幕声"
+                    }, {
+                        "img": "./static/assets/list/dianshi/07.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "8939.00",
+                        "text": "特丽魅彩显示",
+                        "text1": "语音搜索"
+                    }, {
+                        "img": "./static/assets/list/dianshi/08.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "11099.00",
+                        "text": "明锐动态",
+                        "text1": "安卓8.0"
+                    }, {
+                        "img": "./static/assets/list/dianshi/09.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "79059",
+                        "text": "明锐动态",
+                        "text1": "安卓8.0"
+                    }, {
+                        "img": "./static/assets/list/dianshi/10.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "36839.00",
+                        "text": "广锐视角",
+                        "text1": "多声道屏幕声"
+                    }
+                ],
+
+           
+               
+                "tixudao":[
+                    {
+                        "img": "./static/assets/list/tixudao/01.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "3299.00",
+                        "text": "一小时快充",
+                        "text1": "全身水洗"
+                    }, {
+                        "img": "./static/assets/list/tixudao/02.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "3599.00",
+                        "text": "一小时快充",
+                        "text1": "全身水洗"
+                    }, {
+                        "img": "./static/assets/list/tixudao/03.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "2499.00",
+                        "text": "全身水洗",
+                        "text1": "贴面感应"
+                    }, {
+                        "img": "./static/assets/list/tixudao/04.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "7999.00",
+                        "text": "无线充电",
+                        "text1": "限量版礼盒装"
+                    }, {
+                        "img": "./static/assets/list/tixudao/05.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "699.00",
+                        "text": "全身水洗",
+                        "text1": "一小时快充"
+                    }, {
+                        "img": "./static/assets/list/tixudao/06.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "2259.00",
+                        "text": "日本安来金刚",
+                        "text1": "智能剃须检测"
+                    }, {
+                        "img": "./static/assets/list/tixudao/07.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "1599.00",
+                        "text": "智能检测系统",
+                        "text1": "一小时快充"
+                    }, {
+                        "img": "./static/assets/list/tixudao/08.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "1999.00",
+                        "text": "自动调节动力",
+                        "text1": "干湿两用"
+                    }, {
+                        "img": "./static/assets/list/tixudao/09.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "1299.00",
+                        "text": "5D柔性刀头",
+                        "text1": "胡须检测"
+                    }, {
+                        "img": "./static/assets/list/tixudao/10.jpg",
+                        "name": "产地意大利 进口AEG 9系 10KG 热泵式洗烘一体机 LWX8C1612H（白色）",
+                        "price": "2599.00",
+                        "text": "5向Flex剃须",
+                        "text1": "强劲秒除浓须"
+                    }
+                ]
+
+            
+            
+
+       
+    }
+
+}
